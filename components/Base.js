@@ -6,6 +6,7 @@ const Container = styled.div`
   background-color: red;
   &:hover {
     background-color: green;
+    border: 1px solid black
   }
 `
 
